@@ -1,13 +1,13 @@
 {
-    "name": "Galaxiga",
-    "short_name": "Galaxiga",
+    "name": "Sudoku",
+    "short_name": "Sudoku",
     "start_url": "index.html",
     "display": "fullscreen",
-    "background_color": "#231F20",
+    "background_color": "#FFFFFF",
     "theme_color": "#000",
-    "description": "Template - Game Telegram",
+    "description": "",
     "icons": [{
-      "src": "TemplateData/icons/logo.png",
+      "src": "TemplateData/icons/unity-logo-dark.png",
       "sizes": "144x144",
       "type": "image/png",
       "purpose": "any maskable"

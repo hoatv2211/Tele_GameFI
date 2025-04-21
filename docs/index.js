@@ -36,16 +36,16 @@ function unityShowBanner(msg, type) {
 }
 
 var buildUrl = "Build";
-var loaderUrl = buildUrl + "/root.loader.js";
+var loaderUrl = buildUrl + "/Sudoku.loader.js";
 var config = {
-    dataUrl: buildUrl + "/root.data",
-    frameworkUrl: buildUrl + "/root.framework.js",
-    codeUrl: buildUrl + "/root.wasm",
+    dataUrl: buildUrl + "/Sudoku.data",
+    frameworkUrl: buildUrl + "/Sudoku.framework.js",
+    codeUrl: buildUrl + "/Sudoku.wasm",
     streamingAssetsUrl: "StreamingAssets",
-    companyName: "Game",
-    productName: "Galaxiga",
-    productVersion: "1.1",
-    /*showBanner: unityShowBanner,*/
+    companyName: "MAD",
+    productName: "Sudoku",
+    productVersion: "1.2",
+    showBanner: unityShowBanner,
 };
 
 // By default Unity keeps WebGL canvas render target size matched with
@@ -63,6 +63,7 @@ if (/iPhone|iPad|iPod|Android/i.test(navigator.userAgent)) {
     document.getElementsByTagName('head')[0].appendChild(meta);
 }
 
+canvas.style.background = "url('" + buildUrl + "/Sudoku.jpg') center / cover";
 loadingBar.style.display = "block";
 
 var script = document.createElement("script");
@@ -73,6 +74,28 @@ script.onload = () => {
     }).then((unityInstance) => {
         window.unityInstance = unityInstance;
 
+        try {
+            if(!window.Telegram || !window.Telegram.WebApp){
+                alert("Cannot get Telegram Data, please reload Bot");
+            }
+            if (window.Telegram && window.Telegram.WebApp) {
+                window.Telegram.WebApp.ready();
+                window.Telegram.WebApp.expand();
+                window.Telegram.WebApp.enableClosingConfirmation();
+                window.Telegram.WebApp.disableVerticalSwipes();
+                if (typeof window.Telegram.WebApp.requestFullscreen === 'function') {
+                    if (/iPhone|iPad|iPod|Android/i.test(navigator.userAgent)) {
+                        window.Telegram.WebApp.requestFullscreen();
+                    } else {
+                        console.log("Not opening fullscreen due to desktop playback.");
+                    }
+                } else {
+                    console.log("requestFullscreen is not supported.");
+                }
+            }
+        } catch (error) {
+            alert("Cannot get Telegram Data, please reload Bot");
+        }
         
         unityInstanceRef = unityInstance;
         loadingBar.style.display = "none";

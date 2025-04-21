@@ -3,24 +3,17 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <title>Unity WebGL Player | Galaxiga</title>
+    <title>Unity WebGL Player | Sudoku</title>
     <link rel="shortcut icon" href="TemplateData/logo_mad.png">
     <link rel="stylesheet" href="TemplateData/style.css">
     <link rel="manifest" href="manifest.webmanifest">
-
-    <link rel="manifest" href="manifest.json" />
-    <script>
-      if ('serviceWorker' in navigator) {
-        window.addEventListener('load', function () {
-          navigator.serviceWorker.register('ServiceWorker.js');
-        });
-      }
-    </script>
-    
 </head>
 <body>
+    <a href="https://hoatv2211.github.io/" class="back-button">
+        ← Back to Home
+    </a>
     <div id="unity-container">
-        <canvas id="unity-canvas" width=960 height=600 tabindex="-1"></canvas>
+        <canvas id="unity-canvas" width=800 height=600 tabindex="-1"></canvas>
         <div id="unity-loading-bar">
             <div class="box__full">
                 <!-- <div id="unity-logo"></div> -->
