@@ -1,0 +1,114 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\Tele_GameFI\\Galaxiga\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF283C07-7D0D-4210-0737-6CC21837FEB6}|Assembly-CSharp.csproj|c:\\users\\admin\\desktop\\tele_gamefi\\galaxiga\\assets\\scripts\\spine\\unity\\materialstextureloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF283C07-7D0D-4210-0737-6CC21837FEB6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spine\\unity\\materialstextureloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF283C07-7D0D-4210-0737-6CC21837FEB6}|Assembly-CSharp.csproj|c:\\users\\admin\\desktop\\tele_gamefi\\galaxiga\\assets\\scripts\\settingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF283C07-7D0D-4210-0737-6CC21837FEB6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\settingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF283C07-7D0D-4210-0737-6CC21837FEB6}|Assembly-CSharp.csproj|C:\\Users\\admin\\Desktop\\Tele_GameFI\\Galaxiga\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF283C07-7D0D-4210-0737-6CC21837FEB6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF283C07-7D0D-4210-0737-6CC21837FEB6}|Assembly-CSharp.csproj|C:\\Users\\admin\\Desktop\\Tele_GameFI\\Galaxiga\\assets\\scripts\\firebaseremote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF283C07-7D0D-4210-0737-6CC21837FEB6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\firebaseremote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF283C07-7D0D-4210-0737-6CC21837FEB6}|Assembly-CSharp.csproj|C:\\Users\\admin\\Desktop\\Tele_GameFI\\Galaxiga\\assets\\scripts\\socialmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF283C07-7D0D-4210-0737-6CC21837FEB6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\socialmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143086161:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MaterialsTextureLoader.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Tele_GameFI\\Galaxiga\\Assets\\Scripts\\Spine\\Unity\\MaterialsTextureLoader.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Spine\\Unity\\MaterialsTextureLoader.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Tele_GameFI\\Galaxiga\\Assets\\Scripts\\Spine\\Unity\\MaterialsTextureLoader.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Spine\\Unity\\MaterialsTextureLoader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T04:46:35.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SettingManager.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Tele_GameFI\\Galaxiga\\Assets\\Scripts\\SettingManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SettingManager.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Tele_GameFI\\Galaxiga\\Assets\\Scripts\\SettingManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SettingManager.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAlwFwAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T04:36:38.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Tele_GameFI\\Galaxiga\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Tele_GameFI\\Galaxiga\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AQIAAJ4AAAAAAAAAAAD4v7EAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T04:36:13.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FireBaseRemote.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Tele_GameFI\\Galaxiga\\Assets\\Scripts\\FireBaseRemote.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FireBaseRemote.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Tele_GameFI\\Galaxiga\\Assets\\Scripts\\FireBaseRemote.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FireBaseRemote.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T04:19:17.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SocialManager.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Tele_GameFI\\Galaxiga\\Assets\\Scripts\\SocialManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SocialManager.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Tele_GameFI\\Galaxiga\\Assets\\Scripts\\SocialManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SocialManager.cs",
+              "ViewState": "AQIAADcBAAAAAAAAAAAlwEcBAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T04:15:38.325Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
